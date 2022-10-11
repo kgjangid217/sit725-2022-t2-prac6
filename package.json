@@ -1,0 +1,34 @@
+{
+  "name": "sit725-2022-t2-prac6",
+  "version": "1.0.0",
+  "description": "sit 725 week 6 prac",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgjangid217/sit725-2022-t2-prac6.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Materialize",
+    "HTML",
+    "JS",
+    "CSS"
+  ],
+  "author": "Kartik Jangid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kgjangid217/sit725-2022-t2-prac6/issues"
+  },
+  "homepage": "https://github.com/kgjangid217/sit725-2022-t2-prac6#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "mongodb": "^4.9.1",
+    "socket.io": "^4.5.2"
+  }
+}
